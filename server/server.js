@@ -1,7 +1,6 @@
 import express from 'express';
 import connectDB from './db/connect.js';
 import cors from 'cors';
-import axios from 'axios';
 import userRoutes from './routes/userRoutes.js';
 import { notFound, errorHandler } from './middleware/errorMiddleware.js';
 import cookieParser from 'cookie-parser';
