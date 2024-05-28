@@ -23,3 +23,11 @@ npm i react-bootstrap react-icons
 npm i react-router-dom react-router-bootstrap
 npm i @reduxjs/toolkit react-redux
 npm i react-toastify
+```
+
+### Backend
+To set up the backend, navigate to the `server` directory and run the following commands:
+```bash
+npm i express mongoose dotenv cors
+```
+
