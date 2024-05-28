@@ -7,9 +7,8 @@ This project is a MERN stack application that includes authentication functional
 - [Installation](#installation)
   - [Frontend](#frontend)
   - [Backend](#backend)
-- [Usage](#usage)
 - [Features](#features)
-- [License](#license)
+
 
 ## Installation
 
@@ -30,4 +29,9 @@ To set up the backend, navigate to the `server` directory and run the following 
 ```bash
 npm i express mongoose dotenv cors
 ```
+
+### Features
+- Authentication
+- Update Profile
+
 
